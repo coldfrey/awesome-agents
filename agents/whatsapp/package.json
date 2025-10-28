@@ -15,7 +15,7 @@
     "durable-objects",
     "ai-agent"
   ],
-  "author": "coldfrey",
+  "author": "Joshua Carey <josh5485@me.com>",
   "license": "MIT",
   "dependencies": {
     "@ai-sdk/openai": "^0.0.66",
